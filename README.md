@@ -12,3 +12,6 @@
   <a href="https://hexo.io"><img alt="Hexo" src="https://img.shields.io/badge/hexo-3.3.8-0e83cd.svg?style=flat-square"></a>
   <a href="https://material.viosey.com"><img alt="Theme" src="https://img.shields.io/badge/theme-material-red.svg?style=flat-square"></a>
 </p>
+
+
+> 博客迁移，现已全面开启HTTPS,图床从七牛云迁移到新浪图床。

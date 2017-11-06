@@ -10,5 +10,5 @@ cd ..
 git add .                                                         
 git commit -m "auto deploy at "${d}
 echo -e "\033[46;37m [Auto Deploying] git push...  \033[0m"
-git push origin master
+git push --quiet --force origin master
 echo -e "\033[46;37m [Finish Deploy] deploy hexo finish \033[0m"
