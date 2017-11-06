@@ -1,0 +1,17 @@
+.DS_Store
+.vscode
+.idea
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+__hexo/.vscode
+__hexo/.DS_Store
+__hexo/Thumbs.db
+__hexo/db.json
+__hexo/*.log
+__hexo/node_modules/
+__hexo/public/
+__hexo/.deploy*/
